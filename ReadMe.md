@@ -16,14 +16,16 @@ https://docs.google.com/spreadsheets/d/1cpd7t4qOJMOA6ra3UnKqmDi9JywVstKp/edit?us
 ##Bug And Improvement Report:
 https://docs.google.com/spreadsheets/d/1GpIxce69jw1vQdlDSwo0Bdi1SlfEMjH0/edit?usp=sharing&ouid=105413695096846736430&rtpof=true&sd=true
 
-##Postman documentation:
+#Postman documentation:
 https://documenter.getpostman.com/view/23351657/2s83tFJs8n
 
-##Newman Full Live Report Link
+#Newman Full Live Report Link
 https://newman-report-jamil.netlify.app/
 
 ###ScreenShot of Newman Report
 
+![newman1](https://user-images.githubusercontent.com/38850936/194350530-876e9f5e-4b0a-4ec6-8e76-c6bc4629b117.PNG)
+![newman2](https://user-images.githubusercontent.com/38850936/194350553-7b51c1be-a0c4-48b1-9cf6-e00180b3ad88.PNG)
 
 ##Positive and Negative case are Created for Follwing Scenraio
 
